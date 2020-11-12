@@ -32,7 +32,7 @@ export default {
       es: 'Por favor, llévame a $1.',
       nl: 'Breng me alsjeblieft naar $1.',
       pt: 'Por favor, leve-me até $1.',
-      tr: 'Lütfen bana $1 getir.',
+      tr: 'Lütfen beni 1$ e getir.',
       ko: '나를 $1 에 데려다주세요.',
       ro: 'Te rog, du-mă la $1.',
       zh: '請帶我去$1。',
